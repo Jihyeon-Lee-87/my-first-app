@@ -1,6 +1,3 @@
-st.title("🎈 My new app")
-st.write(
-
 import streamlit as st
 import pandas as pd
 import numpy as np
