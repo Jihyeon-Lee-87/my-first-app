@@ -96,3 +96,4 @@ if df is not None:
 
 else:
     st.info("먼저 성적 데이터 CSV 파일을 업로드하세요.")
+pip freeze > requirements.txt
